@@ -2,6 +2,8 @@
 
 ## Link to Deployed Application
 
+https://afternoon-chamber-12281.herokuapp.com/
+
 ## Description
 
 In this assignment, I was given a starter code filled with front end development. The challenge was to create an application called Note Taker that can be used to write and save notes. To bulid a link by making a back end application connect to front end. The benefits from this application can be used to drop down thoughts and review for later as it will save as many notes as needed. At first, I was having a hard time understanding how and where my routes were getting errors. Later to find out that I added an extra route that was taken to a route that did not exist. This helps understand how back end communicates to front end applications.
@@ -34,6 +36,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Quick Demostration of the Application
+
+![Demo](public/assets/image/Demo.gif)
 
 ## Installation
 
